@@ -1,0 +1,6 @@
+com\restfulws\demo\controller\user\User.class
+com\restfulws\demo\controller\user\UserDaoService.class
+com\restfulws\demo\RestfulWebservicesPathvariableExApplication.class
+com\restfulws\demo\controller\user\UserController.class
+com\restfulws\demo\controller\HelloWorldController.class
+com\restfulws\demo\controller\HelloWorldBean.class
